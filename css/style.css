@@ -508,6 +508,8 @@ section {
   position: relative;
 }
 
+
+
 .trainers .box-container .box:hover .content {
   -webkit-transform: translateY(0);
           transform: translateY(0);
@@ -526,10 +528,13 @@ section {
   left: 0;
   right: 0;
   background: #111;
+
   padding: 2rem;
   -webkit-transform: translateY(6.5rem);
           transform: translateY(6.5rem);
 }
+
+
 
 .trainers .box-container .box .content span {
   font-size: 1.5rem;
@@ -546,6 +551,8 @@ section {
   padding-top: 2rem;
   margin-top: 1.5rem;
   border-top: 0.1rem solid #aaa;
+
+  
 }
 
 .trainers .box-container .box .content .share a {
